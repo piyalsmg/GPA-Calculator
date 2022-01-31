@@ -2,8 +2,7 @@
 
 Simple GPA Calculator and analysis tools developed for SE 2015/16 Batch.
 
-LINK : https://nuwan94.github.io/se-gpa-calculator/
-
+LINK : https://github.com/piyalsmg/GPA-Calculator
 ![Screenshot](https://i.imgur.com/neS6R6f.png)
 
 ## Frameworks used
