@@ -1,4 +1,4 @@
-# Software Engineering GPA Calculator - University of Kelaniya
+# Software Engineering GPA Calculator - Horizon Campus
 
 Simple GPA Calculator and analysis tools developed for SE 2015/16 Batch.
 
