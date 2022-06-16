@@ -1,4 +1,4 @@
-# Software Engineering GPA Calculator - Horizon Campus
+# Software Engineering GPA Calculator for Kalaniya University
 
 Simple GPA Calculator and analysis tools developed for SE 2015/16 Batch.
 
